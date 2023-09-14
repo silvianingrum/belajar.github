@@ -1,0 +1,4 @@
+nama    : silvia ningrum
+kelas   : XII
+jurusan : RPL
+hobi    : belajar
